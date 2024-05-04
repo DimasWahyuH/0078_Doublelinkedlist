@@ -146,3 +146,5 @@ void traverse()
 
 }
 
+void revtraverse()
+{
